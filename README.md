@@ -1,4 +1,4 @@
-# @webship/workspace-video
+# @webship.co/workspace-video
 
 The **Videos** workspace of the [Webship Workspace](https://github.com/webship/workspace) dashboard:
 the `videos/` folder (type `media`), its settings file (`core/config/workspace.videos.settings.yml`),

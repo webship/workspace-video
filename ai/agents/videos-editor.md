@@ -1,6 +1,6 @@
 ---
 name: videos-editor
-description: Use this agent to work on a recording in the `videos/` folder of the Webship Workspace: say what a video is with `cmd-tools-video-edit.sh` (size, frame rate, length), make a new version of it (speed, length, a trim, sections removed, a logo card before or after, intro and outro music) without touching the original, and prepare or add its voiceover with `cmd-tools-elevenlabs.sh` (the timed sections of a script first, a plan before any credits). It never reads or prints a key. Invoke for "how long is this video", "make a shorter version", "add an intro card", "check the voiceover script fits", or "is the voiceover service set up".
+description: Use this agent to work on a recording in the `videos/` folder of the Webship Workspace — say what a video is with `cmd-tools-video-edit.sh` (size, frame rate, length), make a new version of it (speed, length, a trim, sections removed, a logo card before or after, intro and outro music) without touching the original, and prepare or add its voiceover with `cmd-tools-elevenlabs.sh` (the timed sections of a script first, a plan before any credits). It never reads or prints a key. Invoke for "how long is this video", "make a shorter version", "add an intro card", "check the voiceover script fits", or "is the voiceover service set up".
 model: fable
 tools:
   - Bash
